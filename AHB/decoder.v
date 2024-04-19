@@ -1,9 +1,4 @@
-//-----------------------------------------------------------
-// Module Name: Decoder
-// The decoder for ahb system with 4 slave
-// Author: WangFW
-// Created on 2020-11-2
-//-----------------------------------------------------------
+
 
 module decoder(
   input [1:0] sel,
