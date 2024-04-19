@@ -1,9 +1,4 @@
-//--------------------------------------------------------
-// Module Name: multiplexor_tb
-// The testbench
-// Author: WangFw
-// Created on 2020-11-2
-//--------------------------------------------------------
+
 
 `timescale 1ns/1ns
 
