@@ -1,9 +1,4 @@
-//-------------------------------------------------------------
-// Module Name: one_master_slave_tb
-// The testbench of one_master_slave
-// Author: WangFW
-// Created on 2020-11-4
-//-------------------------------------------------------------
+
 
 `timescale 1ns/1ns
 
