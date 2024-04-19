@@ -1,9 +1,4 @@
-//---------------------------------------------------------------------
-// Module Name: one_master_slave
-// One master to one slave based on AHB protocol
-// Author: WangFW
-// Created on 2020-11-4
-//---------------------------------------------------------------------
+
 
 module one_master_slave(
   input hclk,
