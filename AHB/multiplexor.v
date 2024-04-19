@@ -1,9 +1,5 @@
 //---------------------------------------------------
-// Module Name: multiplexor
-// The mux select the data from different slave
-// Author: WangFW
-// Created on 2020-11-2
-//---------------------------------------------------
+
 
 module multiplexor(
   input [31:0] hrdata_1,
