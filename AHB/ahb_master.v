@@ -26,17 +26,12 @@ module ahb_master(
   output reg [31:0] dout
 );
 
-//----------------------------------------------------
-// The definitions for state machine
-//----------------------------------------------------
 
 reg [1:0] state, next_state;
 parameter idle = 2'b00, s1 = 2'b01, s2 = 2'b10, s3 = 2'b11;
 
 
-//----------------------------------------------------
-// The state machine
-//----------------------------------------------------
+------------------------------------------------
 
 always @(posedge hclk, negedge hresetn) begin
   if(!hresetn) begin
